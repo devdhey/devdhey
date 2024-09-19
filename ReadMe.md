@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 Technology student looking for <br>opportunities in the area to gain <br>experience and learn new resources.<br><br>🔎 Technologies practiced :<br>✔️ HTML/CSS<br>✔️ JavaScript<br>✔️ Python<br>✔️ .NET<br>✔️ MySQL<br><br><br>
+📌 Technology student looking for opportunities in the area to gain experience and learn new resources.<br><br>
 
 
 ## 🌐 Socials:
