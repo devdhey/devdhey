@@ -34,8 +34,6 @@ Upcoming studies and areas of interest:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://superset.apache.org/images/superset-logo-horiz-apache.svg" height="40" alt="Apache Superset logo" />
 
 </div>
 
