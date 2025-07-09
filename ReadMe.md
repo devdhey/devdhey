@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 Graduated in Systems Analysis and Development, currently working as a data analyst trainee. Focused on real-world data projects and improving skills in SQL, Superset, Power BI, and cloud technologies to become a results-oriented and efficient professional.
+📌 Graduated in Systems Analysis and Development, currently working as a data analyst trainee. Focused on real-world data projects and improving skills in SQL, Superset, Power BI, and Big Data to become a results-oriented and efficient professional.
 
 Upcoming studies and areas of interest:
 
