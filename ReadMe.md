@@ -1,5 +1,15 @@
 # 💫 About Me:
-📌 Technology student looking for opportunities in the area to gain experience and learn new resources.<br><br>
+📌 Graduated in Systems Analysis and Development, currently working as a data analyst trainee. Focused on real-world data projects and improving skills in SQL, Superset, Power BI, and cloud technologies to become a results-oriented and efficient professional.
+
+Upcoming studies and areas of interest:
+
+⏳ Power BI
+
+⏳ Machine Learning
+
+⏳ Web Scraping
+
+⏳ APIs with Python.<br><br>
 
 
 ## 🌐 Socials:
