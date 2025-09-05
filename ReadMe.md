@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌Graduated in Systems Analysis and Development, currently working as an intern in data analysis. Focused on real-world data projects and improving skills in SQL, Superset and Big Data to become a results-oriented and efficient professional. And also venturing into technologies for diverse applications
+📌Graduated in Systems Analysis and Development, currently working as an intern in data analysis. Focused on real-world data projects and improving skills in SQL, Visualization and Big Data to become a results-oriented and efficient professional. And also venturing into technologies for diverse applications
 
 Upcoming studies and areas of interest:
 
