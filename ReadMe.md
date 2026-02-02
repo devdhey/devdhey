@@ -1,15 +1,31 @@
-# 💫 About Me:
-📌Graduated in Systems Analysis and Development, currently working as an intern in data analysis. Focused on real-world data projects and improving skills in SQL, Visualization and Big Data to become a results-oriented and efficient professional. And also venturing into technologies for diverse applications
+Hi, I’m Dheymes! 👋
 
-Upcoming studies and areas of interest:
+A Data Professional who basically turns the chaos of raw data into dashboards that make sense (and that people actually use).
 
-⏳ Power BI
+Currently, I spend my days orchestrating complex pipelines, mainly with public data, wrestling with Docker containers, and exploring the Hadoop ecosystem.
 
-⏳ Machine Learning
+🛠️ What I work with:
 
-⏳ Web Scraping
+Orchestration: I make the magic happen with Apache Airflow.
 
-⏳ APIs with Python.<br><br>
+Big Data: I navigate the Hadoop ecosystem, using Spark, Hive, and NiFi to process volumes of data that Excel can’t even dream of opening.
+
+Visualization: Strong expertise in Apache Superset, but I also speak the language of Power BI and Metabase.
+
+Infrastructure: A Docker and containerized environments enthusiast, ensuring that “it works on my machine” also works on the server.
+
+Engineering: Building bridges between raw data and intelligent decisions through Lakehouse/Warehouse architectures.
+
+🚀 Current Challenge:
+Understanding the entire data journey, best practices in data governance and architecture, with a focus on consistent and trustworthy data visualization.
+Also, deepening my knowledge in Software Engineering and Machine Learning.
+
+📫 Where to find me:
+
+LinkedIn: dheymesribeiro
+
+
+
 
 
 ## 🌐 Socials:
@@ -17,6 +33,19 @@ Upcoming studies and areas of interest:
 
 # 💻 Tech Stack:
 <div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" height="40" alt="hadoop logo" />
+  <img width="12"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="airflow logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="40" alt="spark logo"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -29,11 +58,8 @@ Upcoming studies and areas of interest:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+
+
 
 </div>
 
