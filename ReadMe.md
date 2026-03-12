@@ -8,7 +8,7 @@ Currently, I spend my days orchestrating complex pipelines, mainly with public d
 
 Orchestration: I make the magic happen with Apache Airflow.
 
-Big Data: I navigate the Hadoop ecosystem, using Spark, Hive, and NiFi to process volumes of data that Excel can’t even dream of opening.
+Big Data: I navigate the Hadoop ecosystem, using Spark, Hive, NiFi, Kafka and more to process volumes of data that Excel can’t even dream of opening.
 
 Visualization: Strong expertise in Apache Superset, but I also speak the language of Power BI and Metabase.
 
