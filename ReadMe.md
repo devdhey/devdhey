@@ -1,24 +1,19 @@
-# Hi, I’m Dheymes! 👋
+Hi, I’m Dheymes! 👋
 
-A Data Professional who basically turns the chaos of raw data into dashboards that make sense (and that people actually use).
+A Data Professional who basically turns the chaos of raw data into dashboards that actually make sense (and that people *love* using).
 
-Currently, I spend my days orchestrating complex pipelines, mainly with public data, wrestling with Docker containers, and exploring the Hadoop ecosystem.
+Currently, I spend my days orchestrating complex pipelines (mostly with public Brazilian data), wrestling with Docker containers, and diving deep into the Hadoop ecosystem.
 
 🛠️ What I work with:
+- **Orchestration**: I make the magic happen with Apache Airflow — turning messy schedules into reliable workflows.
+- **Big Data**: I navigate the Hadoop ecosystem (Spark, Hive, Iceberg, NiFi, Kafka and friends) to process volumes of data that would make Excel cry.
+- **Visualization**: Strong expertise in Apache Superset, but I also speak fluent Power BI and Metabase.
+- **Infrastructure**: Docker & containerized environments enthusiast — because “it works on my machine” should also work on the server.
+- **Engineering**: Building solid bridges between raw data and smart decisions with Lakehouse and Warehouse architectures.
 
-Orchestration: I make the magic happen with Apache Airflow.
+🚀 Current Challenge:  
+Mastering the entire data journey — from ingestion to trustworthy visualization — while leveling up on data governance, best practices in architecture, Software Engineering, and Machine Learning (check my latest pinned project: iris_random_forest 👀).
 
-Big Data: I navigate the Hadoop ecosystem, using Spark, Hive, NiFi, Kafka and more to process volumes of data that Excel can’t even dream of opening.
-
-Visualization: Strong expertise in Apache Superset, but I also speak the language of Power BI and Metabase.
-
-Infrastructure: A Docker and containerized environments enthusiast, ensuring that “it works on my machine” also works on the server.
-
-Engineering: Building bridges between raw data and intelligent decisions through Lakehouse/Warehouse architectures.
-
-🚀 Current Challenge:
-Understanding the entire data journey, best practices in data governance and architecture, with a focus on consistent and trustworthy data visualization.
-Also, deepening my knowledge in Software Engineering and Machine Learning.
 
 📫 Where to find me:
 
